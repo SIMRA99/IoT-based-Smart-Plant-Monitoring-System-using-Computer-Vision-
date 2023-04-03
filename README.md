@@ -31,7 +31,7 @@ Tomato__Tomato_mosaic_virus
 Tomato_healthy
 
 
-The goal of this part is to recognize the disease in a plant and inform the gardener through  a webapp
+The goal of this part is to recognize the disease in a plant and inform the gardener through  a webapp using Raspberry Pi NoIR Camera Board v2 for taking photos.
 
 ![image](https://user-images.githubusercontent.com/57862480/229548738-9c9cdf01-4853-4dec-9a92-5ef2b41a2ce6.png)
 
@@ -39,4 +39,8 @@ The goal of this part is to recognize the disease in a plant and inform the gard
 
 ![image](https://user-images.githubusercontent.com/57862480/229548967-e8f4df0e-7803-4f99-bb0b-2ea36744f1ed.png)
 
+
+
+system disgram:
+![image](https://user-images.githubusercontent.com/57862480/229559795-419b5133-82fd-486e-bafb-ab6ba00943c2.png)
 
